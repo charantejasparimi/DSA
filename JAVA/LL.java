@@ -48,7 +48,6 @@ public class LL {
             curr=forw;
         }
         head=prev;
-        longfloat
     }
 
     public void delete(int data){
